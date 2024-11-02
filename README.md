@@ -1,6 +1,6 @@
 # 💼🤖 Cameron Kish, CPA
 
-**`AI-Enhanced Financial Pioneer (Public Accountant/Software Developer/Innovator)`**
+**`AI-Enhanced Financial Pioneer (Transaction Diligence Consultant/Software Developer/Innovator)`**
 
 As a seasoned Public Accountant at EY, I've been dedicated to safeguarding users of financial statements by substantively testing significant accounts as well as ensuring significant classes of transactions are supported by a robust internal control environment. 
 
