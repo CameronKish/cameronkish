@@ -22,7 +22,7 @@ ___
 - Languages: Python, HTML, JavaScript
 - Libraries: LangChain, LlamaIndex, Pandas, Matplotlib, Numpy, Scikit-learn, and many more
 - Databases: SQL/SQLite, ChromaDB
-- LLMs: ChatGPT, Llama2, Claude, Gemma, Falcon, Mistral, Llava, Nomic embed text, and many more
+- LLMs: ChatGPT, Llama, Claude, Gemma, Falcon, Mistral, Llava, Nomic embed text, and many more
 - LLM Platforms: Ollama, OpenAI, Groq, Anthropic
 - Web Development: Django, Flask
 - Application Development: Pyside6
